@@ -23,4 +23,4 @@ Build a bucket list browser web-app, that allows a user to create a list of thin
 - Users should be able to mark list items as "completed" and save the new status
 - Style the front-end application with CSS
 
-https://user-images.githubusercontent.com/38946410/45763389-40ff7f80-bc28-11e8-8ac2-1ba488bfed16.png
+![Bucket List] https://user-images.githubusercontent.com/38946410/45769870-bf641d80-bc38-11e8-889b-82ec484a895d.png
